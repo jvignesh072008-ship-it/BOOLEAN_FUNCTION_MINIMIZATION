@@ -42,11 +42,13 @@ assign F = (~A & ~B & ~C & ~D) |
 
 endmodule
 ```
+```
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 Developed by:VIGNESH J
-RegisterNumber:212225230297/*
-
+RegisterNumber:212225230297
+/*
+```
 
 **RTL realization**
 <img width="811" height="555" alt="Screenshot 2026-03-12 103814" src="https://github.com/user-attachments/assets/c16cf170-9477-45f9-870c-d4f6ee0aa233" />
